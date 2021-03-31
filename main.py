@@ -18,3 +18,6 @@ print("Hello World Update on GitHub Branch")
 
 #Coding new item in master
 print("Hello World Updates on Local Master Branch")
+
+#Updates in main branch of GiHub
+print("Hello World Update 2 on GitHub Branch Only")
